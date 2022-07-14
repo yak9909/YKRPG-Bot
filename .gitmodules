@@ -4,3 +4,6 @@
 [submodule "modules/ykutils"]
 	path = modules/ykutils
 	url = https://github.com/yak9909/ykutils
+[submodule "modules/ykrpg"]
+	path = modules/ykrpg
+	url = https://github.com/yak9909/YKRPG-Python
