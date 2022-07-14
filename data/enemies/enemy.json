@@ -1,0 +1,12 @@
+{
+  "health": 0,
+  "atk": 0,
+  "def": 0,
+  "drop_exp": 0,
+  "drop_items": {
+    "money": {"gold": 0, "yumo": 0},
+    "material": [{"id": 0, "amount": 0}],
+    "weapon": [{"id": 0, "amount": 0, "level": 0}],
+    "armor": [{"id": 0, "amount": 0, "level": 0}]
+  }
+}

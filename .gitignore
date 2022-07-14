@@ -1,0 +1,4 @@
+**/__pycache__
+.idea
+.vscode
+dev_config.json
