@@ -1,3 +1,6 @@
 [submodule "discord"]
 	path = discord
 	url = https://github.com/Rapptz/discord.py
+[submodule "modules/ykutils"]
+	path = modules/ykutils
+	url = https://github.com/yak9909/ykutils
