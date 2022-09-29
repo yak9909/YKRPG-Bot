@@ -1,0 +1,13 @@
+{
+  "level": 1,
+  "exp": {"now": 0, "next": 1},
+  "health": 10,
+  "atk": 2,
+  "def": 1,
+  "items": {
+    "money": {"gold": 100, "yumo": 0},
+    "material": [],
+    "weapon": [],
+    "armor": []
+  }
+}
